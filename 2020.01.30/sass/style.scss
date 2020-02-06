@@ -1,0 +1,14 @@
+.top{
+background-color: black;
+text-align: center;
+}
+ul{
+	list-style: none;
+
+	li{
+	darken( $base-color, 10% )
+	lighten( $base-color, 10% )
+	padding: 50px;
+	width: 100%;
+}
+}

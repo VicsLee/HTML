@@ -1,0 +1,109 @@
+.container{
+	padding: 50px;
+	background-color: red;
+	max-width: 2000px;
+}
+.container-fluid{
+	background-color:#f56262;
+}
+.carousel{
+	text-align: center;
+}
+.btn .btn-outline-light{
+  color: black;
+}
+img {
+  border-radius: 10%;
+}
+.alfa{
+	width: 30%;
+}
+.beta{
+	width: 30%;
+}
+.gamma{
+	width: 30%;
+}
+ul{
+	list-style: none;
+}
+h6{
+	text-align: center;
+}
+article{
+	text-align: center;
+	width: 100%;
+	background-color: #ff0080;
+}
+.botom{
+	background-color: #1a0000;
+	color: white;
+}
+footer{
+  background-image: url('../img/map.jpg');
+  height: 200px;
+}
+
+input[type="text"]
+{
+    background: rgba(0, 0, 0, 0);
+    color: red;
+    outline: 0;
+    border: 0;
+}
+
+.stripe-text{
+	color: blue;
+}
+
+.foot-box{
+	background-color:rgba(0, 0, 0, 0.8);
+	width: 25%;
+    margin: auto;
+    padding-bottom: 50px;
+}
+.logo{
+	float: right;
+	color: white;
+}
+header{
+	background-color: #ff3333
+}
+.toplink{
+	float: right;
+
+}
+h3{
+	color: #ffffff;
+}
+h1{
+	text-align: center;
+}
+.container-mid{
+	background-color: #000000;
+}
+.row-c {
+	text-align: center;
+	color: #000000;
+}
+.fas{
+	color: #ff3333;
+	width: 200px;
+}
+.row {
+	background-color: #00ff00;
+	text-align: center;
+}
+.med{
+	background-color: #00ff40;
+}
+.talent{
+	text-align: center;
+}
+nav{
+	background-color: #ff4d4d;
+}
+.row-b{
+	text-align: center;
+	width: 100%;
+}
