@@ -1,0 +1,19 @@
+.container{
+	background-color: #eee;
+	margin: width=50px auto;
+
+}
+nav li{
+display: inline-block;
+padding: 5px 0;
+background-color: #ddee88;
+width: 
+}
+nav li{
+	text-decoration: none;
+	text-transform: uppercase;
+
+}
+nav li:hover{
+	background-color: #ff0099;
+}

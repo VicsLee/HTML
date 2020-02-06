@@ -1,0 +1,80 @@
+body{
+	background-color: #000000;
+}
+h1{
+	color: #000000;
+	font-family: 'Anton', sans-serif;
+}
+.container{
+	background-color: #ffffff;
+	margin: 0px auto;
+	height: 600px;
+	width: 80%;
+	border: solid;
+}
+img{
+	width:110%;
+	height: 200px;
+	border-radius: 4px 5px;
+}
+h2{
+	text-align: left;
+	font-family: 'Anton', sans-serif;
+}
+article{
+	display: inline-block;
+	width: 350px;
+	margin: 10px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
+}
+p{
+	text-align: left;
+	margin: 0px;
+}
+.button{
+	float: right;
+	color: #ffffff;
+	text-decoration: none;
+	text-decoration-style: solid;
+	font-family: 'Alata', sans-serif;
+	background-color: #00bfff;
+	border: none;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 2px;
+}
+.fa-plane-departure{
+	color: #0000ff;
+	font-size: 20px;
+}
+.icon{
+	float: left;
+	width: 20px;
+	margin-right:10px;
+}
+.price{
+	text-align: center;
+	width: 10%
+}
+.desc{
+	text-align: center;
+	width: 10%;
+}
+.base{
+	width: 50%;
+	margin-top: 20px;
+}
+.bloc{
+	width: 20%;
+	float:left;
+}
+.price h3{
+	margin: 0px;
+}
+@media (min-width: 500px) {
+    .container {
+     width:80%;
+    }
+    
